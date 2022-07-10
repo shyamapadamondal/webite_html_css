@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+#Navber{
+    background-color: rgb(216, 220, 220);
+    border: 1px solid black;
+    padding: 4px;
+}
+.head{
+    padding: 10px;
+    color: rgb(19, 17, 17);
+    font-size: large;
+}
+
+ul>li>a{
+    padding: 10px;
+    text-decoration: none;
+    text-align: left;
+    color: black;
+}
